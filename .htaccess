@@ -5,5 +5,5 @@ RewriteRule (.*) http://www.bh-ingenieria.com/$1 [R=301,L,QSA]
 
 <IfModule mod_rewrite.c>
 RewriteCond %{HTTPS} on
-RewriteRule (.*) http://www.ejemplo.com/$1 [R=301,L,QSA]
+RewriteRule (.*) http://www.bh-ingenieria.com/$1 [R=301,L,QSA]
 </IfModule>
