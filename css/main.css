@@ -1,0 +1,118 @@
+.carousel-indicators .active {
+  background-color: #e52a12;
+}
+
+.carousel-caption .titulo-sm {
+  font-size: 1.5rem;
+  font-weight: bolder;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption .titulo-sm span {
+  color: #e52a12;
+}
+.carousel-caption .subt-sm {
+  font-size: 0.8rem;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+}
+
+/* CAPTION MD */
+
+
+.carousel-caption-md h2 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-weight: bolder;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption-md h2 span {
+  color: #e52a12;
+}
+.carousel-caption-md h3 {
+  font-size: 1.5rem;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+
+}
+/* CAPTION MD */
+
+.carousel-caption-lg h1 {
+  text-transform: uppercase;
+  font-size: 3.5rem;
+  font-weight: bolder;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption-lg h1 span {
+  color: #e52a12;
+}
+.carousel-caption-lg h3 {
+  font-size: 2rem;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+
+}
+/* CAPTION XG */
+
+.carousel-caption-xl h2 {
+  text-transform: uppercase;
+  font-size: 5rem;
+  font-weight: bolder;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+}
+
+.carousel-caption-xl h2 span {
+  color: #e52a12;
+}
+.carousel-caption-xl h3 {
+  font-size: 2.5rem;
+  text-shadow: -1px 4px 5px rgba(0, 0, 0, 1);
+
+}
+
+.carousel-caption button {
+  /* margin-top: 20px ;
+    margin-bottom: 20px; */
+}
+
+/* .carousel-caption .md button {
+  margin-top: 20px ;
+  margin-bottom: 20px;
+} */
+
+/* Add a hover effect if you want */
+.fa:hover {
+  scale: 1.3;
+  text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+.btn-facebook {
+  color: #fff;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.btn-facebook:hover {
+  color: #fff;
+  background-color: #3b5998;
+  border-color: #3b5998;
+  transform: scale(1.2);
+  transition: all 10ms ease-in-out;
+}
+
+.btn-group a {
+  color: #fff;
+}
+
+.carousel .carousel-inner {
+  max-height: 600px;
+  /* min-height: 200px; */
+  width: 100%;
+  object-fit: cover;
+}
+
+.counter {
+  font-size: 60pt;
+  color: #ffcb00
+}
