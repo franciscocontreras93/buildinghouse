@@ -1,6 +1,6 @@
 RewriteEngine On
 RewriteCond %{HTTPS} on
-RewriteRule (.*) http://www.bh-ingenieria.com/ [R=301,L]
+RewriteRule (.*) http://www.bh-ingenieria.com/ [R=302,L]
 
 <IfModule mod_rewrite.c>
 RewriteCond %{HTTP_HOST} ^bh-ingenieria.com [NC]
