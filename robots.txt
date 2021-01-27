@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://www.bh-ingenieria.com/bh-sitemap.xml
