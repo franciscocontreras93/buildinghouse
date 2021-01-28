@@ -10121,10 +10121,10 @@ hr.light {
   text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.15);
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #000;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #000 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
